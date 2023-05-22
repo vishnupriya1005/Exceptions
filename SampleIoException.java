@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class SampleIoException {
 	public static void main(String[] args) throws IOException {
-		System.out.println("program starts");
+		System.out.println("lets begin");
 		File f=new File("D:\\Hello.txt");// where the file is available
 		//try {
 		FileReader fr=new FileReader(f);
